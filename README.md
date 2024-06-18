@@ -34,7 +34,7 @@ This Python application detects facial expressions in real-time using a webcam. 
 
 ## Usage
 1. **Running the Application**:
-   - Execute the Python script `facial_expression_detection.py`.
+   - Execute the Python script `app.py`.
    - Ensure your webcam is connected and accessible.
 
 2. **Interaction**:
@@ -50,9 +50,6 @@ This Python application detects facial expressions in real-time using a webcam. 
 
 ## Contribution
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 - Utilizes PyTorch for deep learning functionalities.
