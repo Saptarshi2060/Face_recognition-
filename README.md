@@ -48,9 +48,6 @@ This Python application detects facial expressions in real-time using a webcam. 
 - **Camera Issues**: If the webcam feed does not appear, ensure it is not being used by another application.
 - **Dependencies**: Make sure all required libraries are installed correctly.
 
-## Contribution
-Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
-
 ## Acknowledgments
 - Utilizes PyTorch for deep learning functionalities.
 - Uses OpenCV for computer vision tasks.
