@@ -1,4 +1,4 @@
-# Facial Expression Detection using OpenCV and PyTorch
+# Facial Expression Detection using OpenCV and PyTorch.
 
 ## Overview
 This Python application detects facial expressions in real-time using a webcam. It leverages computer vision techniques with OpenCV for face detection and PyTorch for deep learning-based emotion recognition using a pre-trained ResNet18 model.
